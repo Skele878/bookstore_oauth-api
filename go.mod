@@ -34,9 +34,11 @@ require (
 )
 
 require (
+	github.com/Skele878/bookstore_utils-go v0.0.0-20240413180511-25cef648df0f
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gin-gonic/gin v1.9.1
 	github.com/gocql/gocql v1.6.0
+	github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
